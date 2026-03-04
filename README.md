@@ -1,5 +1,5 @@
 **Kvelez-07/Kvelez-07** GitHub profile.
-- 🔭 I’m currently studying at UH Costa Rica.
+- 🔭 I’m currently studying at Fidelitas Costa Rica.
 - 🌱 Technologies I've used: 
 [![My Skills](https://skillicons.dev/icons?i=cs,nodejs,tailwind,php,stackoverflow,npm,mysql,linux,java,jquery,go,git,github,bash,anaconda,py,ts,vim,visualstudio,vscode,windows,html,css,js,latex,linkedin,ubuntu,notion,dotnet,bootstrap)](https://skillicons.dev)
 - 👯 I’m looking to collaborate on ... junior backend programming projects.

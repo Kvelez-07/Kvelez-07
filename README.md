@@ -3,9 +3,10 @@
 - 🌱 Technologies I've used: 
 [![My Skills](https://skillicons.dev/icons?i=cs,nodejs,tailwind,php,stackoverflow,npm,mysql,linux,java,jquery,go,git,github,bash,anaconda,py,ts,vim,visualstudio,vscode,windows,html,css,js,latex,linkedin,ubuntu,notion,dotnet,bootstrap)](https://skillicons.dev)
 - 👯 I’m looking to collaborate on ... junior backend programming projects.
-- 📫 How to reach me: ... kvelezsalazar07@gmail.com o kevin.velez0941@uhispano.ac.cr
+- 📫 How to reach me: ... kvelezsalazar07@gmail.com o kvelez40941@fide.ac.cr
 - ⚡ Fun fact: ... I enjoy topics related to technology, theology, and philosophy.
-https://api.daily.dev/devcards/2b8fd77f1de941b2b1d7798e0bacc764.png?r=x54
+Credly: https://www.credly.com/users/kevin-velez.1bbbdd3e
+LinkedIn: https://www.linkedin.com/in/kvelez07/
 <!--
 **Kvelez-07/Kvelez-07** GitHub profile.
 

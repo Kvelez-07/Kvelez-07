@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on ... junior backend programming projects.
 - 📫 How to reach me: ... kvelezsalazar07@gmail.com o kvelez40941@fide.ac.cr
 - ⚡ Fun fact: ... I enjoy topics related to technology, theology, and philosophy.
-Credly: https://www.credly.com/users/kevin-velez.1bbbdd3e
-LinkedIn: https://www.linkedin.com/in/kvelez07/
+- Credly: https://www.credly.com/users/kevin-velez.1bbbdd3e
+- LinkedIn: https://www.linkedin.com/in/kvelez07/
 <!--
 **Kvelez-07/Kvelez-07** GitHub profile.
 
